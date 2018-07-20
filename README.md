@@ -1,4 +1,12 @@
 # Metro System Database Project
+
+# Sections
+- [Abstract](https://github.com/AnkitJishan/Metro-System-Database-Project#abstract)
+- [Keywords](https://github.com/AnkitJishan/Metro-System-Database-Project#keywords)
+- [Preface](https://github.com/AnkitJishan/Metro-System-Database-Project#preface)
+- [Contributions](https://github.com/AnkitJishan/Metro-System-Database-Project#contributions)
+- [License](https://github.com/AnkitJishan/Metro-System-Database-Project#license)
+
 ## Abstract
 > A Metro System is one which helps us to maintain an organisational data regarding a metro system. Since it is very difficult to maintain a record of data items and  this information manually or in file system, we are creating a database for the complete management of resources and tasks of metro system. A Metro System database is one which is used for operational ease in place of traditional file system or Excel worksheets for information storage and retrieval with customized user queries implemented in SQL and is a fully functionally required software prototype with proper user interface and some random software engineering standards. Organising database for data collection and retrieval helps us to maintain data easily. We design it with the help of Entity-Relationship diagram, UML diagrams, data flow diagrams, and using tables & proper User interfaces. It consists of several steps to be followed and many webpages are to be maintained simultaneously. It is a working prototype of a database schema which can further be enhanced. The usage of standard webpages in HTML, CSS, JavaScript, PHP helps us to take project online without much modifications.
 
@@ -39,5 +47,16 @@ Everyone has authority to analyse, evaluate, and collaborate on this project. We
 
 It was very memorable to work on such a project with such a team and such a mentor. No work is perfect, remember to write your views to us! Healthy critism, suggestions, feedback, and even your opinions are always welcome to enhance this project either at github.
 
-## Licence
-This work is licenced under MIT Licence.
+## Contributions
+We are willing to accept contributions from open source developers. What you have to do is simply fork this repository, made changes to it, and leave a pull request. Anybody can contribute to this repository following industry ethics.
+
+## License
+This project is licensed under MIT Licence. You can not use, re-modify, distribute it for commercial purposes. Read more about licence [here](https://en.wikipedia.org/wiki/MIT_License).
+
+    Copyright 2017-Present. Ankit Chouhan & Jishan Shaikh.
+
+    MIT License
+
+    https://en.wikipedia.org/wiki/MIT_License
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/f8/License_icon-mit-88x31-2.svg)
