@@ -40,6 +40,4 @@ Everyone has authority to analyse, evaluate, and collaborate on this project. We
 It was very memorable to work on such a project with such a team and such a mentor. No work is perfect, remember to write your views to us! Healthy critism, suggestions, feedback, and even your opinions are always welcome to enhance this project either at github.
 
 ## Licence
-This work is licenced under CC.
-
-![](https://i.creativecommons.org/l/by-nc-sa/3.0/nl/88x31.png)
+This work is licenced under MIT Licence.
