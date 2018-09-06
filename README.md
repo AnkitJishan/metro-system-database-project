@@ -45,7 +45,7 @@ Most of the collected contents are properly referenced*. If any of work is not, 
 
 Everyone has authority to analyse, evaluate, and collaborate on this project. We will welcome all enthusiasts. This project is licensed under Creative Commons ShareAlike Non-distribution 3.0 International licence 2018. From software engineering practice we know Software prototype maintainance never ends as no software built is perfect, so the modifications to the first version/release of this project is completely moved to github. Althrough we are saying output as a software, it might not be a fully functional SOFTWARE. We can say it as a working prototype of software which can further be enhanced in form of a software.
 
-It was very memorable to work on such a project with such a team and such a mentor. No work is perfect, remember to write your views to us! Healthy critism, suggestions, feedback, and even your opinions are always welcome to enhance this project either at github.
+It was very memorable to work on such a project with such a team and such a mentor. No work is perfect, remember to write your views to us! Healthy critism, suggestions, feedback, and even your opinions are always welcome to enhance this project either at github. It will be good if it includes its internal responsive filter search, thats why it is in To-do list.
 
 ## Contributions
 We are willing to accept contributions from open source developers. What you have to do is simply fork this repository, made changes to it, and leave a pull request. Anybody can contribute to this repository following industry ethics.
