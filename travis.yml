@@ -1,0 +1,5 @@
+config-information:
+  - version: 0.1
+  - built: source
+  - compile: none
+  - git-enabled: true
