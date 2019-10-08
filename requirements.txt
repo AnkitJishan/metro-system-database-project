@@ -1,0 +1,7 @@
+# Basic requirements
+
+- HTML5 (NOT EXPLICIT)
+- CSS3 (NOT EXPLICIT)
+- Jquery (NOT EXPLICIT)
+- JavaScript (Should be enabled)
+- MySQL Database (NECESSARY AND CUSTOMIZED)
