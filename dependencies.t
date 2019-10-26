@@ -1,0 +1,2 @@
+js -enable
+ts -optional
