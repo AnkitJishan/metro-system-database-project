@@ -484,7 +484,7 @@ if($phpini != strtolower($c_phpConfFile) && $phpini != $c_phpConfFileOri) {
 		$error_content .= " - This file is only for PHP in Command Line - Maybe you've added 'PHPIniDir' in the 'httpd.conf' file. Delete or comment this line.";
 	$error_content .= "</p>";
 }
-if($filelist = php_ini_scanned_files()) {
+if($filelist == php_ini_scanned_files()) {
 	if (strlen($filelist) > 0) {
 		$error_content .= "<p style='color:red;'>*** ERROR *** There are too much php.ini files</p>";
 		$files = explode(',', $filelist);
